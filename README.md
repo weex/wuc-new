@@ -1,6 +1,6 @@
-# Contribute Articles
+# Contribute Articles to We Use Coins (WUC)
 
-WeUseCoins (WUC) is one of the highest profile websites in Bitcoin and is to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage WUC to build your Bitcoin business!<p>
+WUC is one of the highest profile websites in Bitcoin and is to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage WUC to build your Bitcoin business!<p>
 Articles <b>should</b> be <b>(1)</b> well written, <b>(2)</b> accurate, <b>(3)</b> grammatically correct and <b>(4)</b> objective. Get audience exposure and build your reputation by receiving credit and a link in the byline for the article. Developing a good reputation will help your articles get merged in a more timely manner.
 
 To increase the probability of success please follow these guidelines:
