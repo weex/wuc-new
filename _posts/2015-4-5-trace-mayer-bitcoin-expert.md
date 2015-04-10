@@ -6,7 +6,7 @@ authorurl: http://www.tracemayer.net
 published: true
 ---
 
-<img src="/images/trace-mayer.jpg" alt="Trace Mayer" align="right">Trace Mayer is an entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in Accounting and law. He has studied Austrian economics focusing on Murray Rothbard and Ludwig von Mises.
+<img src="/images/trace-mayer.jpg" alt="Trace Mayer" align="right">Trace Mayer is an entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in accounting and law and has studied Austrian economics focusing on Rothbard and Mises.
 
 He was among the first popular bloggers to publicly recommend Bitcoin in its infancy with a market cap under $2m and well before its massive rise over $11B in November 2013 and hosts the extremely popular <a title="Bitcoin Knowledge" href="http://www.bitcoin.kn"  target="_blank">Bitcoin Knowledge</a> podcast.
 
