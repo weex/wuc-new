@@ -15,8 +15,8 @@ To increase the probability of success please follow these guidelines:
 3. Fill out the Author and Author URL (use your WUC Author Biography article.<p>
 4. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word guide if it is awesome.
 5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a <a href="http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/">hub and spoke model</a>. Responsibly leverage WUC to build your Bitcoin business!
-6. 5. Perform at least basic Search Engine Optimization (a href="https://juxseo.zoomshift.com/">Free Tool</a>Free tool)<p>
-7. Link to other relevant pages on weusecoins.com<p>
+6. 5. Perform at least basic Search Engine Optimization (a href="https://juxseo.zoomshift.com/">Free Tool</a><p>
+7. Link to and from other relevant pages on weusecoins.com like the FAQ<p>
 8. Optimize images (Ex. <a href="http://www.kraken.io">Kraken.io</a>)<p>
 9. Find websites that will link to the article<p>
 10. Mention the article on social media like Twitter, Facebook, Reddit, etc.<p>
