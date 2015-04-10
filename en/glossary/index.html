@@ -32,13 +32,15 @@ Bitcoin is its own world and you may need to learn the vocabulary. The most impo
 
 <a href="#private-key">Private Key</a><p>
 
+<a href="#public-key">Public Key</a><p>
+
 <a href="#signature">Signature</a><p>
 
 <a href="#wallet">Wallet</a><p>
 
 
 <h2 id="address">Address</h2>
-<p>A Bitcoin address is <b>similar to a physical address or an email</b>. It is the only information you need to provide for someone to pay you with Bitcoin. An important difference, however, is that each address should only be used for a single transaction.</p>
+<p>A Bitcoin address is <b>similar to a physical address or an email</b>. It is the only information you need to provide for someone to pay you with Bitcoin. It is an identifier of 26-35 alphanumeric characters, beginning with the number 1 or 3, that represents a possible destination for a Bitcoin payment. Addresses can be generated at no cost by any user of Bitcoin. An important difference, however, is that each address should only be used for a single transaction.</p>
 
 <h2 id="bit">Bit</h2>
 <p>Bit is a common unit used to designate a sub-unit of a bitcoin - 1,000,000 bits is equal to 1 bitcoin (BTC or B⃦). This unit is usually more convenient for pricing tips, goods and services.</p>
@@ -74,10 +76,17 @@ Bitcoin is its own world and you may need to learn the vocabulary. The most impo
 <p>Peer-to-peer refers to <b>systems that work like an organized collective</b> by allowing each individual to interact directly with the others. In the case of Bitcoin, the network is built in such a way that each user is broadcasting the transactions of other users. And, crucially, no bank is required as a third party.</p>
 
 <h2 id="private-key">Private Key</h2>
-<p>A private key is a <b>secret piece of data that proves your right to spend bitcoins from a specific wallet</b> through a cryptographic <a href="#signature">signature</a>. Your private key(s) are stored in your computer if you use a software wallet; they are stored on some remote servers if you use a web wallet. Private keys must never be revealed as they allow you to spend bitcoins for their respective Bitcoin wallet.</p>
-
+<p>A private key is a <b>secret piece of data that enables transaction outputs from a public key which has transaction inputs.</b> through a <a href="#signature">cryptographic signature</a>. Private key(s) are generally <i>generated</i> and <i>stored</i> using a computer using Bitcoin wallet software. There can be several different formats. Private keys must be kept secret and never be revealed because they enable bitcoins to be spent.
+<p>Many third-parties like to generate and store private keys. Almost all major Bitcoin thefts, which have amounted to hundreds of millions of dollars of value, have resulted because people trusted third parties to hold the private keys.
+<p>The safest and most secure way to generate and store Bitcoin private keys is with <a href="https://www.bitcoinarmory.com/">Armory</a> using an offline computer (<i>cold storage</i>).
+<b>Thus, whoever holds the private keys makes the rules.</b></p>
+<p>
+<img src="/images/private-key-example.png" alt="Bitcoin private key" align="center">
+<h2 id="public-key">Public Key</h2>
+<p>A public key can be mathematically derived from a private key and is used for the <a href="#address">Bitcoin address</a>. There can be several different formats.</p>
+<img src="/images/public-key-example.png" alt="Bitcoin public key" align="center">
 <h2 id="signature">Signature</h2>
-<p>A <a href="#cryptography">cryptographic</a> signature is <b>a mathematical mechanism that allows someone to prove ownership</b>. In the case of Bitcoin, a <a href="#wallet">Bitcoin wallet</a> and its <a href="#private-key">private key(s)</a> are linked by some mathematical magic. When your Bitcoin software signs a transaction with the appropriate private key, the whole network can see that the signature matches the bitcoins being spent. However, there is no way for the world to guess your private key to steal your hard-earned bitcoins.</p>
+<p>A <a href="#cryptography">cryptographic signature</a> is <b>a mathematical mechanism that allows someone to prove ownership</b>. In the case of Bitcoin, a <a href="#wallet">Bitcoin wallet</a> and its <a href="#private-key">private key(s)</a> are linked by some mathematical magic. When your Bitcoin software signs a transaction with the appropriate private key, the whole network can see that the signature matches the bitcoins being spent. However, there is no way for the world to guess your private key to steal your hard-earned bitcoins.</p>
 
 <h2 id="wallet">Wallet</h2>
 <p>A Bitcoin wallet is loosely <b>the equivalent of a physical wallet on the Bitcoin network</b>. The wallet actually contains your <a href="#private-key">private key(s)</a> which allow you to spend the bitcoins allocated to it in the <a href="#block-chain">block chain</a>. Each Bitcoin wallet can show you the total balance of all bitcoins it controls and lets you pay a specific amount to a specific person, just like a real wallet. This is different to credit cards where you are charged by the merchant.</p>
