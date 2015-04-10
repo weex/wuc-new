@@ -7,7 +7,7 @@ To increase the probability of success please follow these guidelines:
 
 ### Author Biography Article<p>
 1. Create an author biography article.<p>
-2. Appropriate examples: <a href="http://www.weusecoins.com/trace-mayer-bitcoin-expert/">Individual</a>; <a href="https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2015-4-5-trace-mayer-bitcoin-expert.md">In Github</a><p>
+2. Appropriate examples: Individual: <a href="http://www.weusecoins.com/trace-mayer-bitcoin-expert/">Live</a>; <a href="https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2015-4-5-trace-mayer-bitcoin-expert.md">Github</a>; Corporate: <a href="">Live</a>; <a href="">Github</a> <p>
 3. For the Author URL in the layout use a website of your choice<p>
 
 ### Writing Articles For WUC<p>
