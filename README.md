@@ -1,44 +1,46 @@
 # Contribute Articles
 
-WeUseCoins is one of the highest profile websites in Bitcoin. Please contribute well written and accurate articles. Get exposure and raise your stature by receiving credit and a link in the byline for the article.
+WeUseCoins (WUC) is one of the highest profile websites in Bitcoin and is to be a classy resource to introduce people to the concept of crypto-currency. Articles should be well written, accurate, grammatically correct and objective. Get audience exposure and build your reputation by receiving credit and a link in the byline for the article. Developing a good reputation will help your articles get merged in a more timely manner.
 
 To increase the probability of success please follow these guidelines:
 
-<b>Author Biography Article</b><p>
+### Author Biography Article<p>
 1. Create an author biography article.<p>
-2. An appropriate example would be: https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2015-4-5-trace-mayer-bitcoin-expert.md<p>
+2. An <a href="https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2015-4-5-trace-mayer-bitcoin-expert.md">appropriate example</a><p>
 3. For the Author URL in the layout use a website of your choice<p>
 
-<b>Writing Articles For WeUseCoins</b><p>
-1. Create an article in the _posts folder<p>
+### Writing Articles For WUC<p>
+1. Create an objective article in the _posts folder<p>
 2. Use the Year-Month-Date in the file name. Ex. 2015-1-23-bitcoin.md<p>
 3. Fill out the Author and Author URL (use your WUC Author Biography article.<p>
-3. Perform at least basic Search Engine Optimization (Free tools: https://juxseo.zoomshift.com/)<p>
-4. Link to other relevant pages on weusecoins.com<p>
-5. Optimize images (Ex. http://www.kraken.io)<p>
-6. Find websites that will link to the article<p>
-8. Mention the article on social media like Twitter, Facebook, Reddit, etc.<p>
-9. Thanks for your help!<p>
+4. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word guide if it is awesome.
+5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a <a href="http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/">hub and spoke model</a>. Responsibly leverage WUC to build your Bitcoin business!
+6. 5. Perform at least basic Search Engine Optimization (a href="https://juxseo.zoomshift.com/">Free Tool</a>Free tool)<p>
+7. Link to other relevant pages on weusecoins.com<p>
+8. Optimize images (Ex. <a href="http://www.kraken.io">Kraken.io</a>)<p>
+9. Find websites that will link to the article<p>
+10. Mention the article on social media like Twitter, Facebook, Reddit, etc.<p>
+11. Thanks for your help!<p>
+
+### What Not To Do
+
+WUC is not a low class marketing directory. Do not SPAM links in articles. Add appropriate and objective links to Bitcoin community or news websites in the community section.<p>
+For obvious reasons, when dealing with translations you should not change the meaning of any text or add or change links. Such changes should be discussed first.
 
 # For Other Language Versions
 
 ### For Web developers / Designers / Translators
 
-Each localized version of weusecoins is independent of each other and use static HTML, CSS or PHP files.
+Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files.
 
-That allows us to adapt to best fit each language's requirements, available resources, local businesses or active groups. That includes the HTML, fonts, CSS, scripts, social networks, etc. and allows us to update other languages when a translator is missing for a specific language.
+That allows us to adapt to best fit each language's requirements, available resources, local businesses or active groups. Unfortunately, pages can easily get out of date if not maintained. That includes the HTML, fonts, CSS, scripts, social networks, etc. and allows us to update other languages when a translator is missing for a specific language.
 
 The materials directory is used as a shared directory to store files that take significant disk space like videos.
 
 Please help fix any broken links, bugs, typos, grammatical errors, etc.
 
-Thanks!
-
-### What Not To Do
-
-For obvious reasons, you should not change the meaning of any text or add or change links. Such changes must be discussed first.
-You are can add links to community or news websites in the community section that might be appropriate for each language.
-
 ### Keep the Same HTML Structure
 
 Please keep HTML structure as symetric and perfectly identical as possible between each page and each localized version. This should not prevent adding unique things for some languages. But please keep the rest as close as possible. This helps keep consistency.
+
+## Thanks!
