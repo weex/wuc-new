@@ -1,6 +1,7 @@
 # Contribute Articles
 
-WeUseCoins (WUC) is one of the highest profile websites in Bitcoin and is to be a classy resource to introduce people to the concept of crypto-currency. Articles <b>should</b> be <b>(1)</b> well written, <b>(2)</b> accurate, <b>(3)</b> grammatically correct and <b>(4)</b> objective. Get audience exposure and build your reputation by receiving credit and a link in the byline for the article. Developing a good reputation will help your articles get merged in a more timely manner.
+WeUseCoins (WUC) is one of the highest profile websites in Bitcoin and is to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage WUC to build your Bitcoin business!<p>
+Articles <b>should</b> be <b>(1)</b> well written, <b>(2)</b> accurate, <b>(3)</b> grammatically correct and <b>(4)</b> objective. Get audience exposure and build your reputation by receiving credit and a link in the byline for the article. Developing a good reputation will help your articles get merged in a more timely manner.
 
 To increase the probability of success please follow these guidelines:
 
@@ -14,7 +15,7 @@ To increase the probability of success please follow these guidelines:
 2. Use the Year-Month-Date in the file name. Ex. 2015-1-23-bitcoin.md<p>
 3. Fill out the Author and Author URL (use your WUC Author Biography article.<p>
 4. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word guide if it is awesome.
-5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a <a href="http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/">hub and spoke model</a>. Responsibly leverage WUC to build your Bitcoin business!
+5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a <a href="http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/">hub and spoke model</a>.
 6. Perform at least basic Search Engine Optimization (Ex. <a href="http://www.weusecoins.com/en/questions/">Free Tool</a>).<p>
 7. Link to and from other relevant pages on weusecoins.com like the extensive <a href="http://www.kraken.io">FAQ</a><p>
 8. Optimize images (Ex. <a href="http://www.kraken.io">Kraken.io</a>)<p>
