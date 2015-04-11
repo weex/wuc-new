@@ -41,7 +41,7 @@ Vaš se račun ne može zamrznuti
 
 10
 00:00:23,000 --> 00:00:25,500
-i ne postoje pretpostavke
+i ne postoje preduvjeti
 ili arbitrarne granice.
 
 11
