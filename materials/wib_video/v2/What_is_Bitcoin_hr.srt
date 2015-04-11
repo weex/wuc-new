@@ -50,8 +50,8 @@ Pogledajmo kako se to radi.
 
 12
 00:00:28,250 --> 00:00:31,400
-Postoji nekoliko mjesta za razmjenu
-valuta gdje se Bitcoin može kupovati
+Postoji nekoliko mjenjačnica
+gdje se Bitcoin može kupovati
 
 13
 00:00:31,450 --> 00:00:33,450
