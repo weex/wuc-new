@@ -28,7 +28,7 @@ To increase the probability of success please follow these guidelines:
 WUC is not a low class marketing directory. Do not SPAM links in articles. Add appropriate and objective links to Bitcoin community or news websites in the community section.<p>
 For obvious reasons, when dealing with translations you should not change the meaning of any text or add or change links. Such changes should be discussed first.
 
-# For Other Language Versions
+# Other Language Versions
 
 ### For Web developers / Designers / Translators
 
@@ -41,6 +41,8 @@ Each localized version of WUC is independent of each other and uses static HTML,
 <li><b>(3)</b> For lines 31-37 and 52-55 change the /newlanguage/page to /es/page and translate the anchor text [Note: This will make sure the internal link structure is correct.].<li><li><b>(4)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary, (4) questions [FAQ], (5) price, (6) mining guide, (7) merchant and (8) get free bitcoins.</li></ul><p>
 This order should help get useful content available most efficiently.
 
+### Suggestions and recommendations
+
 Translations should be accurate and professional. However, the maintainer for the language will have editorial discretion for what content should appear. This will enable adaptation to best fit each language's requirements, available resources, local businesses or active groups and general market conditions.<p>
 Unfortunately, pages can easily get out of date if not maintained. That includes the HTML, fonts, CSS, scripts, social networks, etc. and allows us to update other languages when a translator is missing for a specific language.
 
@@ -48,7 +50,7 @@ The materials directory is used as a shared directory to store files that take s
 
 Please help fix any broken links, bugs, typos, grammatical errors, etc.
 
-### Keep the Same HTML Structure
+### Keep the same HTML structure
 
 Please keep HTML structure as symetric and perfectly identical as possible between each page and each localized version. This should not prevent adding unique things for some languages. But please keep the rest as close as possible. This helps keep consistency.
 
