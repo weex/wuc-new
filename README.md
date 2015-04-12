@@ -32,7 +32,7 @@ For obvious reasons, when dealing with translations you should not change the me
 
 ### For Web developers / Designers / Translators
 
-Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files. Getting started with a new language is very easy by (1) cloning the 'newlanguage' folder and _layouts/default-newlanguage.html. Please use the appropriate two character code for you language as specified on the <a href="https://www.weusecoins.com/en/materials/"Materials</a> page.
+Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files. Getting started with a new language is very easy by (1) cloning the 'newlanguage' folder and _layouts/default-newlanguage.html. Please use the appropriate two character code for you language as specified on the <a href="https://www.weusecoins.com/en/materials/">Materials</a> page.
 
 <b>Example</b> You want to translate to Spanish.<p>
 <b>(1)</b> Change the layout's file name to default-es. <b>(2)</b> Change line 42 from 'New Language' to be Spanish [Note: This will help you see whether your default layouts are functioning properly]. (3) For lines 31-37 and 52-55 change the /newlanguage/page to /es/page and translate the anchor text [Note: This will make sure the internal link structure is correct]. <b>(3)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary, (4) questions [FAQ], (5) price, (6) mining guide, (7) merchant and (8) get free bitcoins. This order should help get useful content available most efficiently.
