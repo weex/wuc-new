@@ -38,6 +38,8 @@ Each localized version of WUC is independent of each other and uses static HTML,
 Folders are currently ready for the following languages:
 <ul><li>Dutch [nl or nl1]</li><li>German [de or de1]</li><li>French [fr or fr1]</li><li>Japanese [ja or ja1]</li></ul>
 
+There are legacy versions of German [de], Dutch [nl], French [fr] and Japanese [ja]. After a sufficient amount has been translated in the new folders [/de1/ /fr1/ /ja1/ and /nl1/] then we will migrate from the legacy versions.
+
 If you would like to work on a language where the folder structure has not been setup then create an issue for inclusion or submit the appropriate pull request.
 
 <b>Example:</b> You want to translate to Spanish.<p>
@@ -45,10 +47,6 @@ If you would like to work on a language where the folder structure has not been 
 <li><b>(1)</b> In _includes/default-es.html change lines 31-37 at /es/page by translating the anchor text [Note: This will make sure the internal link structure is correct.].</li><li><b>(2)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary, (4) questions [FAQ], (5) price, (6) mining guide, (7) merchant and (8) get free bitcoins.</li></ul><p>
 
 This order should help get useful content available most efficiently.
-
-### Legacy versions
-
-There are legacy versions of German, Dutch, French and Japanese. If you want to update these to the next version then you can begin working on translating pages in the /de1/ /fr1/ /ja1/ and /nl1/ folders. When a sufficient amount has been translated then we will migrate away from the legacy versions.
 
 ### Suggestions and recommendations
 
