@@ -36,7 +36,7 @@ For obvious reasons, when dealing with translations you should not change the me
 Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files.
 
 Folders are currently ready for the following languages:
-<ul><li>Dutch [nl or nl1]</li><li>German [de or de1]</li><li>French [fr or fr1]</li><li>Japanese [ja or ja1]</li>
+<ul><li>Dutch [nl or nl1]</li><li>German [de or de1]</li><li>French [fr or fr1]</li><li>Japanese [ja or ja1]</li></ul>
 
 If you would like to work on a language where the folder structure has not been setup then create an issue for inclusion or submit the appropriate pull request.
 
