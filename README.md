@@ -33,19 +33,17 @@ For obvious reasons, when dealing with translations you should not change the me
 
 ### For Web developers / Designers / Translators
 
-Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files. Getting started with a new language is very easy by cloning in their respective locations the <b>(1)</b> 'newlanguage' folder and <b>(2)</b>  _layouts/default-newlanguage.html. Please use the appropriate two character code for the language as specified on the <a href="https://www.weusecoins.com/en/materials/">Materials</a> page.
+Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files. Folders are currently ready for the following languages: Dutch [nl or nl1], German [de or de1], French [fr or fr1], Japanese [ja or ja1]. If you would like to work on a language where the folder structure has not been setup then create an issue for inclusion or submit the appropriate pull request.
 
 <b>Example:</b> You want to translate to Spanish.<p>
 <ul>
-<li><b>(1)</b> Change the layout's file name to default-es.html [Note: The two character code or Spanish is 'es'.] <b></li>
-<li>(2)</b> Change line 42 from 'New Language' to 'Spanish' [Note: This will help you see whether your default layouts are functioning properly].</li>
-<li><b>(3)</b> For lines 31-37 and 52-55 change the /newlanguage/page to /es/page and translate the anchor text [Note: This will make sure the internal link structure is correct.].<li><li><b>(4)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary, (4) questions [FAQ], (5) price, (6) mining guide, (7) merchant and (8) get free bitcoins.</li></ul><p>
+<li><b>(1)</b> In _includes/default-es.html change lines 31-37 at /es/page by translating the anchor text [Note: This will make sure the internal link structure is correct.].</li><li><b>(2)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary, (4) questions [FAQ], (5) price, (6) mining guide, (7) merchant and (8) get free bitcoins.</li></ul><p>
 
 This order should help get useful content available most efficiently.
 
 ### Legacy versions
 
-There are legacy versions of German, Dutch, French and Japanese. If you want to update these to the next version then follow the same instructions but instead of 'de' or 'fr' then use 'de1' or 'fr1'. After we update and merge then we can replace the legacy versions.
+There are legacy versions of German, Dutch, French and Japanese. If you want to update these to the next version then you can begin working on translating pages in the /de1/ /fr1/ /ja1/ and /nl1/ folders. When a sufficient amount has been translated then we will migrate away from the legacy versions.
 
 ### Suggestions and recommendations
 
