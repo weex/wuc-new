@@ -2,91 +2,85 @@
 layout: default-sv
 ---
 
-<h1>Increase your Bitcoin vocabulary</h1>
-Bitcoin has its own vocabulary. The most important term to understand? <b>Private key!</b><p>
-<h2>Table of contents</h2><p>
+<h1>Några Bitcoin-ord du kan höra</h1>
+<p class="summarytxt">Bitcoin har ett nytt tillvägagångssätt för att möjliggöra betalningar och det finns några nya begrepp som kanske blir en del av ditt ordförråd. Oroa dig inte för till och med TV skapade nya ord!</p>
+<h2 id="table-of-contents">Innehåll</h2>
 
-<a href="#address">Address</a><p>
+<div class="index">
 
-<a href="#bit">Bit</a><p>
+<a href="#adress">Adress</a>
+<p>
+<a href="#konfirmation">Bekräftelse</a>
+<p>
+<a href="#bit">Bit</a>
+<p>
+<a href="#bitcoin">Bitcoin</a>
+<p>
+<a href="#block">Block</a>
+<p>
+<a href="#blockkedja">Blockkedja</a>
+<p>
+<a href="#btc">BTC</a>
+<p>
+<a href="#dubelspendering">Dubbelspendering</a>
+<p>
+<a href="#hash-ratio">Hash ratio</a>
+<p>
+<a href="#kryptografi">Kryptografi</a>
+<p>
+<a href="#p2p">P2P</a>
+<p>
+<a href="#planbok">Plånbok</a>
+<p>
+<a href="#privat-nyckel">Privat nyckel</a>
+<p>
+<a href="#signatur">Signatur</a>
+<p>
+<a href="#utvinning">Utvinning</a>
+</div>
 
-<a href="#bitcoin">Bitcoin</a><p>
 
-<a href="#block">Block</a><p>
+<h2 id="adress">Adress</h2>
+<p>En Bitcoin-adress är <b>lik en fysisk adress eller email adress</b>. Det är den enda information du behöver ange för att någon ska kunna betala dig med Bitcoin. En viktigt skillnad är att adressen bara skall användas en gång.</p>
 
-<a href="#block-chain">Block Chain</a><p>
-
-<a href="#btc">BTC</a><p>
-
-<a href="#confirmation">Confirmation</a><p>
-
-<a href="#cryptography">Cryptography</a><p>
-
-<a href="#double-spend">Double Spend</a><p>
-
-<a href="#hash-rate">Hash Rate</a><p>
-
-<a href="#mining">Mining</a><p>
-
-<a href="#p2p">P2P</a><p>
-
-<a href="#private-key">Private Key</a><p>
-
-<a href="#public-key">Public Key</a><p>
-
-<a href="#signature">Signature</a><p>
-
-<a href="#wallet">Wallet</a><p>
-
-
-<h2 id="address">Address</h2>
-<p>A Bitcoin address is <b>similar to a physical address or an email</b>. It is the only information you need to provide for someone to pay you with Bitcoin. It is an identifier of 26-35 alphanumeric characters, beginning with the number 1 or 3, that represents a possible destination for a Bitcoin payment. Addresses can be generated at no cost by any user of Bitcoin. An important difference, however, is that each address should only be used for a single transaction.</p>
+<h2 id="konfirmation">Bekräftelse</h2>
+<p>Konfirmation betyder att en transaktion har blivit <b>processad av nätverket och det är extremt osannolikt att den kan bli hävd</b>. Transaktioner tar emot en konfirmation när de är inkluderade i ett <a href="/sv/ordlista#block">block</a> och för varje efterföljande block. En enda konfirmation kan anses säker för små värden, dock för lite större belopp som 10000kr är det bättre att vänta på 6 stycken konfirmationer eller fler. Varje konfirmation minskar exponentiellt risken av att transaktionen kan bli hävd.</p>
 
 <h2 id="bit">Bit</h2>
 <p>Bit is a common unit used to designate a sub-unit of a bitcoin - 1,000,000 bits is equal to 1 bitcoin (BTC or B⃦). This unit is usually more convenient for pricing tips, goods and services.</p>
 
 <h2 id="bitcoin">Bitcoin</h2>
-<p>Bitcoin - with capitalization, is used when describing the concept of Bitcoin, or the entire network itself. e.g. "I was learning about the Bitcoin protocol today."<br>bitcoin - without capitalization, is used to describe bitcoins as a unit of account. e.g. "I sent ten bitcoins today."; it is also often abbreviated BTC or XBT.</p>
+<p>Bitcoin - med stor bokstav, används för att beskriva konceptet som är Bitcoin eller nätverket i sin helhet. T.ex "Jag läste om Bitcoin protokollet idag."<br>bitcoin - utan stor bokstav, används för att beskriva bitcoins som en betalningsenhet. T.ex "Jag skickade tio bitcoins idag." BCT eller XBT är vanliga förkortningar på bitcoins.</p>
 
 <h2 id="block">Block</h2>
-<p>A block is a <b>record in the block chain that contains and confirms many waiting transactions</b>. Roughly every 10 minutes, on average, a new block including transactions is appended to the <a href="#block-chain">block chain</a> through <a href="#mining">mining</a>.</p>
+<p>Ett block är en <b>post i en kedja av block som innehåller och bekräftar väntande transaktioner</b>. Nya block, omfattande transaktioner, läggs till i slutet av <a href="#blockkedja">blockkjedjan</a> ungefär var 10:e minut i genomsnitt. Detta sker genom s.k  <a href="#utvinning">utvinning</a>.</p>
 
-<h2 id="block-chain">Block Chain</h2>
-<p>The block chain is a <b>public record of Bitcoin transactions</b> in chronological order. The block chain is shared between all Bitcoin users. It is used to verify the permanence of Bitcoin transactions and to prevent <a href="#double-spend">double spending</a>.</p>
+<h2 id="blockkedja">Blockkedja</h2>
+<p>Blockkedjan är en <b>publik log av Bitcoin-transaktioner</b> i kronologisk ordning. Blockkedjan är delad mellan alla Bitcoin användare. Den används för att verifiera att en transaktion är permanent och för att förhindra <a href="#dubelspendering">dubbelspendering</a>.</p>
 
 <h2 id="btc">BTC</h2>
-<p>BTC is a common unit used to designate one bitcoin (B⃦).</p>
+<p>BTC används ofta för att beteckna en bitcoin (B⃦).</p>
 
-<h2 id="confirmation">Confirmation</h2>
-<p>Confirmation means that a transaction has been <b>processed by the network and is highly unlikely to be reversed</b>. Transactions receive a confirmation when they are included in a block and for each subsequent block. Even a single confirmation can be considered secure for low value transactions, although for larger amounts like 1000 US$, it makes sense to wait for 6 confirmations or more. Each confirmation <i>exponentially</i> decreases the risk of a reversed transaction.</p>
+<h2 id="dubelspendering">Dubbelspendering</h2>
+<p>Om en elak användare försöker <b>spendera sina bitcoins på två olika platser samtidigt</b> är det dubbelspendering. Bitcoin <a href="#utvinning">utvinning</a> och <a href="#blockkedja">blockkedjan</a> är till för att skapa konsensus i nätverket om vilken av transaktionerna som blir accepterad.</p>
 
-<h2 id="cryptography">Cryptography</h2>
-<p>Cryptography is the branch of mathematics that lets us create <b>mathematical proofs that provide high levels of security</b>. Online commerce and banking already uses cryptography. In the case of Bitcoin, cryptography is used to make it impossible for anybody to spend funds from another user's wallet or to corrupt the <a href="#block-chain">block chain</a>. It can also be used to encrypt a wallet, so that it cannot be used without a password.</p>
+<h2 id="hash-ratio">Hash ratio</h2>
+<p>Hash ration är <b>mätenheten för beräkningskapaciteten av Bitcoin-nätverket</b>. Bitcoin nätverket måste utföra intensiva matematiska operationer av säkerhetsskäl. När nätverket nådde en hash ratio på 10 Th/s menas det att nätverket kan utföra 10 biljoner beräkningar per sekund.</p>
 
-<h2 id="double-spend">Double Spend</h2>
-<p>If a malicious user tries to <b>spend their bitcoins to two different recipients at the same time</b>, this is double spending. Bitcoin <a href="#mining">mining</a> and the <a href="#block-chain">block chain</a> are there to create a consensus on the network about which of the two transactions will confirm and be considered valid.</p>
-
-<h2 id="hash-rate">Hash Rate</h2>
-<p>The hash rate is the <b>measuring unit of the processing power of the Bitcoin network</b>. The Bitcoin network must make intensive mathematical operations for security purposes. When the network reached a hash rate of 10 Th/s, it meant it could make 10 trillion calculations per second.</p>
-
-<h2 id="mining">Mining</h2>
-<p>Bitcoin mining is the process of <b>making computer hardware do mathematical calculations for the Bitcoin network to confirm transactions</b> and increase security. As a reward for their services, Bitcoin miners can collect transaction fees for the transactions they confirm, along with newly created bitcoins. Mining is a specialized and competitive market where the rewards are divided up according to how much calculation is done. Not all Bitcoin users do Bitcoin mining, and it is not an easy way to make money.</p>
+<h2 id="kryptografi">Kryptografi</h2>
+<p>Kryptografi är den del av matematik som låter oss skapa <b>matematiska bevis som ger en hög nivå av säkerhet</b>. Internethandel och banker använder redan denna teknologi. I Bitcoins fall så används kryptografi för att göra det omöjligt att spendera pengar från andras plånböcker eller att förvanska <a href="#blockkedja">blockkedjan</a>. Det kan också användas för att kryptera en plånbok så att den inte kan användas utan ett lösenord.</p>
 
 <h2 id="p2p">P2P</h2>
-<p>Peer-to-peer refers to <b>systems that work like an organized collective</b> by allowing each individual to interact directly with the others. In the case of Bitcoin, the network is built in such a way that each user is broadcasting the transactions of other users. And, crucially, no bank is required as a third party.</p>
+<p>Peer-to-peer refererar till <b>system som kan arbeta organiserat kollektivt</b> genom att låta varje individ interagera direkt med varandra. När det gäller Bitcoin är nätverket byggt på ett sådant sätt att varje användare skickar vidare transaktioner gjorde av andra användare. Och viktigast av allt: igen bank krävs som en tredje part. </p>
 
-<h2 id="private-key">Private Key</h2>
-<p>A private key is a <b>secret piece of data that enables transaction outputs from a public key which has transaction inputs.</b> through a <a href="#signature">cryptographic signature</a>. Private key(s) are generally <i>generated</i> and <i>stored</i> using a computer using Bitcoin wallet software. There can be several different formats. Private keys must be kept secret and never be revealed because they enable bitcoins to be spent.
-<p>Many third-parties like to generate and store private keys. Almost all major Bitcoin thefts, which have amounted to hundreds of millions of dollars of value, have resulted because people trusted third parties to hold the private keys.
-<p>The safest and most secure way to generate and store Bitcoin private keys is with <a href="https://www.bitcoinarmory.com/">Armory</a> using an offline computer (<i>cold storage</i>).
-<b>Thus, whoever holds the private keys makes the rules.</b></p>
-<p>
-<img src="/images/private-key-example.png" alt="Bitcoin private key" align="center">
-<h2 id="public-key">Public Key</h2>
-<p>A public key can be mathematically derived from a private key and is used for the <a href="#address">Bitcoin address</a>. There can be several different formats.</p>
-<img src="/images/public-key-example.png" alt="Bitcoin public key" align="center">
-<h2 id="signature">Signature</h2>
-<p>A <a href="#cryptography">cryptographic signature</a> is <b>a mathematical mechanism that allows someone to prove ownership</b>. In the case of Bitcoin, a <a href="#wallet">Bitcoin wallet</a> and its <a href="#private-key">private key(s)</a> are linked by some mathematical magic. When your Bitcoin software signs a transaction with the appropriate private key, the whole network can see that the signature matches the bitcoins being spent. However, there is no way for the world to guess your private key to steal your hard-earned bitcoins.</p>
+<h2 id="planbok">Plånbok</h2>
+<p>En Bitcoin-plånbok är ungefär <b>samma sak som en fysisk plånbok på Bitcoin nätverket</b>. Plånboken innehåller din <a href="#privat-nyckel">privata nyckel(ar)</a> som tillåter dig spendera de bitcoins som är allokerad till den i <a href="#blockkedja">blockkedjan</a>. Varje Bitcoin plånbok kan visa dig saldot för plånboken och låter dig betala ett specifikt belopp till en specifik person, precis som en verklig plånbok. Skillnaden mot kreditkort är att där är det handlaren som drar pengar av dig.</p>
 
-<h2 id="wallet">Wallet</h2>
-<p>A Bitcoin wallet is loosely <b>the equivalent of a physical wallet on the Bitcoin network</b>. The wallet actually contains your <a href="#private-key">private key(s)</a> which allow you to spend the bitcoins allocated to it in the <a href="#block-chain">block chain</a>. Each Bitcoin wallet can show you the total balance of all bitcoins it controls and lets you pay a specific amount to a specific person, just like a real wallet. This is different to credit cards where you are charged by the merchant.</p>
+<h2 id="privat-nyckel">Privat nyckel</h2>
+<p>En privat nyckel är <b>en bit hemlig data som bevisar din rätt att spendera bitcoins från en viss plånbok</b> genom en kryptografisk <a href="#signatur">signatur</a>. Din privata nyckel(ar) är lagrade på din dator ifall du använder en mjukvaruplånbok och om du använder en nätplånbok lagras den på deras server. Privata nycklar ska aldrig avslöjas eftersom de möjliggör spenderandet av bitcoins från deras respektive Bitcoin-plånbok.</p>
+
+<h2 id="signatur">Signatur</h2>
+<p>En <a href="#kryptografi">kryptografisk</a> signatur är <b>en matematisk mekanism som tillåter någon att bevisa ägandeskap</b>. <a href="#planbok">Bitcoin-plånboken</a> och dess <a href="#privat-nyckel">privata nyckel(ar)</a> som länkade tillsammans med hjälp av lite matematisk magi, bevisar det ägandeskapet. När din Bitcoin-mjukvara signerar en transaktion med den korrekta privata nyckeln kan hela nätverket se att signaturen matchar de bitcoins som blir spenderade. Samtidigt finns det inget sätt för någon utomstående att gissa din privata nyckel för att stjäla dina bitcoins.</p>
+
+<h2 id="utvinning">Utvinning</h2>
+<p>Bitcoin-utvinning är processen som <b>tvingar datorns hårdvara att utföra matematiska beräkningar åt Bitcoin nätverket för att konfirmera transaktioner</b> och öka säkerheten. Som en belöning för arbetet får Bitcoin utvinnare ta en transaktionsavgift för de transaktioner de utför, tillsammans med nyskapade bitcoins. Utvinning är en specialiserad och konkurrensutsatt marknad där belöningar är uppdelade efter hur mycket beräkningar som har utförts. Alla Bitcoin användare utför inte Bitcoin utvinning och det är inte ett enkelt sätt att känna pengar.</p>
