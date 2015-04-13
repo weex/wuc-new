@@ -61,7 +61,7 @@ Please help fix any broken links, bugs, typos, grammatical errors, etc.
 
 Please keep HTML structure as symetric and perfectly identical as possible between each page and each localized version. This should not prevent adding unique things for some languages. But please keep the rest as close as possible. This helps keep consistency.
 
-### Video Translations
+### Video translations
 
 Subtitles for <em>What is Bitcoin?</em> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voiceover then please submit a pull request with the mp3 and we can get the translated video made and uploaded to Youtube.
 
