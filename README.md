@@ -36,7 +36,7 @@ For obvious reasons, when dealing with translations you should not change the me
 Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files.
 
 Folders are currently ready for the following languages:
-<ul><li>Chinese [CN]</li><li>Dutch [nl or nl1]</li></li><li><b>English [en] (This is the default source.)</b></li><li>German [de or de1]</li><li>Finnish [fi]</li><li>French [fr or fr1]</li><li>Greek [gr]</li><li>Polish [pl]</li><li>Japanese [ja or ja1]</li><li>Polish [pl]</li><li>Portugese [pt]</li><li>Russian [ru]</li><li>Spanish [es]</li><li>Swedish [se]</li></ul>
+<ul><li>Chinese [CN]</li><li>Dutch [nl or nl1]</li></li><li><b>English [en] (This is the default source.)</b></li><li>German [de or de1]</li><li>Finnish [fi]</li><li>French [fr or fr1]</li><li>Greek [gr]</li><li>Norweigan [no]</li><li>Polish [pl]</li><li>Japanese [ja or ja1]</li><li>Polish [pl]</li><li>Portugese [pt]</li><li>Russian [ru]</li><li>Spanish [es]</li><li>Swedish [se]</li></ul>
 
 There are legacy versions of German [de], Dutch [nl], French [fr] and Japanese [ja]. After a sufficient amount has been translated in the new folders [/de1/ /fr1/ /ja1/ and /nl1/] then we will migrate from the legacy versions.
 
