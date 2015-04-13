@@ -44,7 +44,7 @@ If you would like to work on a language where the folder structure has not been 
 
 <b>Example:</b> You want to translate to Spanish.<p>
 <ul>
-<li><b>(1)</b> In _includes/default-es.html change lines 31-37 at /es/page by translating the anchor text [Note: This will make sure the internal link structure is correct.].</li><li><b>(2)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary, (4) questions [FAQ], (5) price, (6) mining guide, (7) merchant and (8) get free bitcoins.</li></ul><p>
+<li><b>(1)</b> In _includes/default-es.html change lines 31-37 at /es/page by translating the anchor text [Note: This will make sure the internal link structure is correct.].</li><li><b>(2)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary [only needed for fi, no and tl], (4) questions [FAQ] [only needed for fi, no and tl], (5) price, (6) mining guide, (7) merchant and (8) get free bitcoins.</li></ul><p>
 
 This order should help get useful content available most efficiently.
 
