@@ -61,4 +61,26 @@ Please help fix any broken links, bugs, typos, grammatical errors, etc.
 
 Please keep HTML structure as symetric and perfectly identical as possible between each page and each localized version. This should not prevent adding unique things for some languages. But please keep the rest as close as possible. This helps keep consistency.
 
+### Video Translations
+
+Subtitles for <em>What is Bitcoin?</em> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voiceover then please submit a pull request with the mp3 and we can get the translated video made and uploaded to Youtube.
+
+<ul><li>de - German - </li>
+<li>el - Greek - </li>
+<li>es - <a href="https://www.youtube.com/watch?v=ceef71b0zSo">Spanish</a></li>
+<li>fi - Finnish - </li>
+<li>fr - <a href="https://www.youtube.com/watch?v=eN4SCHxhgag">French</a></li>
+<li>it - <a href="https://www.youtube.com/watch?v=QSUJqb33Sd8">Italian</a></li>
+<li>ja - <a href="https://www.youtube.com/watch?v=dlZFkTbCveY">Japanese</a> - </li>
+<li>nl - Dutch - </li>
+<li>no - Norwegian - </li>
+<li>pl - Polish - </li>
+<li>pt - Portugese - </li>
+<li>ru - <a href="https://www.youtube.com/watch?v=Ur8zXNGA_3A">Russian</a></li>
+<li>sv - Swedish - </li>
+<li>tl - Tagalog - </li>
+<li>tr - <a href="https://www.youtube.com/watch?v=tMnNC_l4tVM">Turkish</a></li>
+<li>zh - Chinese - </li>
+</ul>
+
 ## Thanks!
