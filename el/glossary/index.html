@@ -2,91 +2,86 @@
 layout: default-el
 ---
 
-<h1>Increase your Bitcoin vocabulary</h1>
-Bitcoin has its own vocabulary. The most important term to understand? <b>Private key!</b><p>
-<h2>Table of contents</h2><p>
+<h1>Μερικές λέξεις του Bitcoin που ίσως ακούσετε</h1>
+<p class="summarytxt">Το Bitcoin προσφέρει μια νέα προσέγγιση σε πληρωμές και ως εκ τούτου υπάρχουν μερικές λέξεις που μπορεί να γίνουν μέρος του λεξιλογίου σας. Μην ανησυχείτε, ακόμα και η ταπεινή τηλεόραση δημιούργησε νέες λέξεις!</p>
+<h2 id="table-of-contents">Πίνακας περιεχομένων</h2>
 
-<a href="#address">Address</a><p>
+<div class="index">
 
-<a href="#bit">Bit</a><p>
+<a href="#block-chain">Αλυσίδα των Μπλοκ (Block Chain)</a>
+<p>
+<a href="#address">Διεύθυνση</a>
+<p>
+<a href="#double-spend">Διπλή Δαπάνη</a>
+<p>
+<a href="#mining">Εξόρυξη</a>
+<p>
+<a href="#confirmation">Επιβεβαίωση</a>
+<p>
+<a href="#private-key">Ιδιωτικό Κλειδί</a>
+<p>
+<a href="#cryptography">Κρυπτογραφία</a>
+<p>
+<a href="#block">Μπλοκ (Βlock)</a>
+<p>
+<a href="#wallet">Πορτοφόλι</a>
+<p>
+<a href="#hash-rate">Ποσοστό κατακερματισμού (Hash Rate)</a>
+<p>
+<a href="#signature">Υπογραφή</a>
+<p>
+<a href="#bit">Bit</a>
+<p>
+<a href="#bitcoin">Bitcoin</a>
+<p>
+<a href="#btc">BTC</a>
+<p>
+<a href="#p2p">P2P</a>
+<p>
+</div>
 
-<a href="#bitcoin">Bitcoin</a><p>
 
-<a href="#block">Block</a><p>
+<h2 id="block-chain">Αλυσίδα των Μπλοκ (Block Chain)</h2>
+<p>Η αλυσίδα των μπλοκ (block chain) είναι ένα <b>δημόσιο αρχείο συναλλαγών Bitcoin</b> με χρονολογική σειρά. Η αλυσίδα των μπλοκ διαμοιράζεται μεταξύ όλων των χρηστών Bitcoin. Χρησιμοποιείται για να επαληθεύσει την μονιμότητα των συναλλαγών Bitcoin και για να αποτρέψει <a href="#double-spend">διπλές δαπάνες (double spending)</a>.</p>
 
-<a href="#block-chain">Block Chain</a><p>
+<h2 id="address">Διεύθυνση</h2>
+<p>Μια διεύθυνση Bitcoin είναι <b>παρόμοια με μια φυσική διεύθυνση ή ένα email</b>. Είναι η μόνη πληροφορία που χρειάζεται να δώσετε σε κάποιον για να σας πληρώσει με Bitcoin. Ωστόσο, μια σημαντική διαφορά είναι ότι η κάθε διεύθυνση θα πρέπει να χρησιμοποιείται για μία και μόνο συναλλαγή.</p>
 
-<a href="#btc">BTC</a><p>
+<h2 id="double-spend">Διπλή Δαπάνη</h2>
+<p>Αν ένας κακόβουλος χρήστης προσπαθήσει να <b>ξοδέψει τα bitcoins του σε δύο διαφορετικούς παραλήπτες ταυτοχρόνως</b>, αυτό είναι διπλή δαπάνη. Η Bitcoin <a href="#mining">εξόρυξη</a> και η <a href="#block-chain">αλυσίδα των μπλοκ</a> είναι εκεί για να δημιουργήσουν μια γενική συναίνεση στο δίκτυο σχετικά με το ποια από τις δύο συναλλαγές θα επιβεβαιωθεί και θα θεωρείται έγκυρη.</p>
 
-<a href="#confirmation">Confirmation</a><p>
+<h2 id="mining">Εξόρυξη</h2>
+<p>Το Bitcoin mining είναι η διεργασία που <b>δημιουργεί το υλισμικό υπολογιστή (computer hardware) για να κάνει μαθηματικούς υπολογισμούς ώστε το δίκτυο Bitcoin να επιβεβαιώσει τις συναλλαγές</b> και να αυξήσει την ασφάλεια. Ως αμοιβή για τις υπηρεσίες τους, οι Bitcoin miners μπορεί να συλλέγουν τα τέλη συναλλαγών για τις συναλλαγές που επιβεβαιώνουν, μαζί με τα πρόσφατα δημιουργημένα bitcoins. Το Mining είναι μια εξειδικευμένη και ανταγωνιστική αγορά όπου οι αμοιβές χωρίζονται ανάλογα με το πόσος υπολογισμός έχει γίνει. Δεν κάνουν όλοι οι χρήστες Bitcoin mining και δεν είναι εύκολος τρόπος να βγάλετε χρήματα.</p>
 
-<a href="#cryptography">Cryptography</a><p>
+<h2 id="confirmation">Επιβεβαίωση</h2>
+<p>Επιβεβαίωση σημαίνει ότι μια συναλλαγή έχει <b>επεξεργαστεί από το δίκτυο και είναι εξαιρετικά απίθανο να αναιρεθεί</b>. Οι συναλλαγές λαμβάνουν επιβεβαίωση όταν συμπεριλαμβάνονται σε ένα <a href="/el/vocabulary#block">μπλοκ (block)</a> και για κάθε επακόλουθο μπλοκ. Ακόμα και μία επιβεβαίωση μπορεί να θεωρείται ασφαλής για συναλλαγές χαμηλής αξίας παρόλο που για μεγαλύτερα ποσά όπως 1000 US$, είναι λογικό να περιμένετε για 6 ή και περισσότερες επιβεβαιώσεις. Κάθε επικύρωση μειώνει <i>εκθετικά</i> τον κίνδυνο αντεστραμμένης συναλλαγής. </p>
 
-<a href="#double-spend">Double Spend</a><p>
+<h2 id="private-key">Ιδιωτικό Κλειδί</h2>
+<p>Ένα ιδιωτικό κλειδί είναι ένα <b>μυστικό κομμάτι δεδομένων που αποδεικνύει το δικαίωμά σας να ξοδέψετε bitcoins από ένα συγκεκριμένο πορτοφόλι</b> μέσο μιας κρυπτογραφικής <a href="#signature">υπογραφής</a>. Το(α) ιδιωτικό(ά) σας κλειδί(ά) είναι αποθηκευμένα στον υπολογιστή σας αν χρησιμοποιείτε ένα πορτοφόλι λογισμικού και αποθηκευμένα σε απομακρυσμένους διακομιστές αν χρησιμοποιείτε ένα διαδικτυακό πορτοφόλι. Τα ιδιωτικά κλειδιά δεν πρέπει ποτέ να αποκαλυφθούν καθώς σας  επιτρέπουν να ξοδέψετε bitcoins από το αντίστοιχο πορτοφόλι Bitcoin.</p>
 
-<a href="#hash-rate">Hash Rate</a><p>
+<h2 id="cryptography">Κρυπτογραφία</h2>
+<p>Η κρυπτογραφία είναι ο κλάδος των μαθηματικών που μας επιτρέπει να δημιουργήσουμε  <b>μαθηματικές αποδείξεις οι οποίες παρέχουν υψηλά επίπεδα ασφαλείας</b>. Το online εμπόριο και το τραπεζικό σύστημα ήδη χρησιμοποιούν κρυπτογραφία. Στην περίπτωση του Bitcoin, η κρυπτογραφία χρησιμοποιείται για να είναι αδύνατο κάποιος να ξοδέψει τα κεφάλαια από το πορτοφόλι άλλου χρήστη ή να αλλοιώσει την <a href="#block-chain">αλυσίδα των μπλοκ</a>. Μπορεί να χρησιμοποιηθεί επίσης για την κρυπτογράφηση ενός πορτοφολιού έτσι ώστε αυτό να μην μπορεί να χρησιμοποιηθεί χωρίς κωδικό πρόσβασης.</p>
 
-<a href="#mining">Mining</a><p>
+<h2 id="block">Μπλοκ (Βlock)</h2>
+<p>Ένα μπλοκ είναι ένα <b>αρχείο στην αλυσίδα των μπλοκ (block chain) το οποίο περιέχει και επικυρώνει πολλές συναλλαγές σε αναμονή</b>. Περίπου κάθε 10 λεπτά, κατά μέσο όρο, ένα νέο μπλοκ που συμπεριλαμβάνει συναλλαγές επισυνάπτεται στο <a href="#block-chain">αλυσίδα των μπλοκ</a> μέσω <a href="#mining">εξόρυξη</a>.</p>
 
-<a href="#p2p">P2P</a><p>
+<h2 id="wallet">Πορτοφόλι</h2>
+<p>Ένα Bitcoin πορτοφόλι είναι γενικώς <b>το ισοδύναμο ενός φυσικού πορτοφολιού στο δίκτυο Bitcoin</b>. Στην πραγματικότητα, το πορτοφόλι περιέχει τα δικά σας <a href="#private-key">ιδιωτικό(ά) κλειδί(ά)</a> τα οποία σας επιτρέπουν να ξοδεύετε τα bitcoins που κατενέμονται σε αυτή την <a href="#block-chain">αλυσίδα των μπλοκ (block chain)</a>. Το κάθε Bitcoin πορτοφόλι μπορεί να σας δείξει το συνολικό υπόλοιπο όλων των bitcoins που ελέγχει και σας αφήνει να πληρώσετε ένα συγκεκριμένο ποσό σε ένα συγκεκριμένο άτομο, όπως συμβαίνει και με ένα αληθινό πορτοφόλι. Αυτό διαφέρει από τις πιστωτικές κάρτες όπου χρεώνεστε από τον έμπορο.</p>
 
-<a href="#private-key">Private Key</a><p>
+<h2 id="hash-rate">Ποσοστό κατακερματισμού (Hash Rate)</h2>
+<p>O δείκτης κατακερματισμού (hash rate) είναι η <b>μονάδα μέτρησης της επεξεργαστικής ισχύος του δικτύου Bitcoin</b>. To δίκτυο Bitcoin πρέπει να κάνει εντατικές μαθηματικές λειτουργίες για λόγους ασφαλείας. Όταν το δίκτυο φτάσει σε δείκτη κατακερματισμού (hash rate) 10 Th/s, αυτό σημαίνει ότι θα μπορεί να κάνει 10 τρισεκατομμύρια υπολογισμούς το δευτερόλεπτο.</p>
 
-<a href="#public-key">Public Key</a><p>
-
-<a href="#signature">Signature</a><p>
-
-<a href="#wallet">Wallet</a><p>
-
-
-<h2 id="address">Address</h2>
-<p>A Bitcoin address is <b>similar to a physical address or an email</b>. It is the only information you need to provide for someone to pay you with Bitcoin. It is an identifier of 26-35 alphanumeric characters, beginning with the number 1 or 3, that represents a possible destination for a Bitcoin payment. Addresses can be generated at no cost by any user of Bitcoin. An important difference, however, is that each address should only be used for a single transaction.</p>
+<h2 id="signature">Υπογραφή</h2>
+<p>Μια <a href="#cryptography">κρυπτογραφική</a> υπογραφή είναι <b>ένας μαθηματικός μηχανισμός που επιτρέπει σε κάποιον να αποδείξει την κυριότητα</b>. Στην περίπτωση του Bitcoin, ένα <a href="#wallet">Bitcoin πορτοφόλι</a> και τα δικά του <a href="#private-key">ιδιωτικό(ά) κλειδί(ά)</a> συνδέονται με κάποια μαθηματική μαγεία. Όταν το λογισμικό σας Bitcoin υπογράψει μια συναλλαγή με το κατάλληλο ιδιωτικό κλειδί, όλο το δίκτυο μπορεί να δει ότι η υπογραφή συμπίπτει με τα bitcoins που ξοδεύονται. Ωστόσο, δεν υπάρχει τρόπος, που να χαλάσει ο κόσμος, κάποιος να μαντέψει το ιδιωτικό κλειδί σας για να κλέψει τα κερδισμένα με κόπο bitcoins σας.</p>
 
 <h2 id="bit">Bit</h2>
-<p>Bit is a common unit used to designate a sub-unit of a bitcoin - 1,000,000 bits is equal to 1 bitcoin (BTC or B⃦). This unit is usually more convenient for pricing tips, goods and services.</p>
+<p>Το Μπιτ (bit) είναι μια συνηθισμένη μονάδα που χρησιμοποιείται για να προσδιορίσει μια υπομονάδα ενός bitcoin. 1,000,000 bits ισούνται με 1 bitcoin  (BTC or B⃦). Η μονάδα αυτή είναι συνήθως περισσότερο πρακτική για τιμολόγηση φιλοδωρημάτων, αγαθών και υπηρεσιών.</p>
 
 <h2 id="bitcoin">Bitcoin</h2>
-<p>Bitcoin - with capitalization, is used when describing the concept of Bitcoin, or the entire network itself. e.g. "I was learning about the Bitcoin protocol today."<br>bitcoin - without capitalization, is used to describe bitcoins as a unit of account. e.g. "I sent ten bitcoins today."; it is also often abbreviated BTC or XBT.</p>
-
-<h2 id="block">Block</h2>
-<p>A block is a <b>record in the block chain that contains and confirms many waiting transactions</b>. Roughly every 10 minutes, on average, a new block including transactions is appended to the <a href="#block-chain">block chain</a> through <a href="#mining">mining</a>.</p>
-
-<h2 id="block-chain">Block Chain</h2>
-<p>The block chain is a <b>public record of Bitcoin transactions</b> in chronological order. The block chain is shared between all Bitcoin users. It is used to verify the permanence of Bitcoin transactions and to prevent <a href="#double-spend">double spending</a>.</p>
+<p>Το Bitcoin - με κεφαλαίο, χρησιμοποιείται όταν περιγράφουμε την έννοια του Bitcoin, ή ολόκληρο το ίδιο το δίκτυο. π.χ "Μάθαινα για το πρωτόκολλο Bitcoin σήμερα."<br>Το bitcoin - χωρίς κεφαλαίο, χρησιμοποιείται για να περιγράψει τα bitcoins ως μονάδα ενός λογαριασμού. e.g. "Έστειλα δέκα bitcoins σήμερα." Συχνά χρησιμοποιείται η συντομογραφία BTC ή XBT.</p>
 
 <h2 id="btc">BTC</h2>
-<p>BTC is a common unit used to designate one bitcoin (B⃦).</p>
-
-<h2 id="confirmation">Confirmation</h2>
-<p>Confirmation means that a transaction has been <b>processed by the network and is highly unlikely to be reversed</b>. Transactions receive a confirmation when they are included in a block and for each subsequent block. Even a single confirmation can be considered secure for low value transactions, although for larger amounts like 1000 US$, it makes sense to wait for 6 confirmations or more. Each confirmation <i>exponentially</i> decreases the risk of a reversed transaction.</p>
-
-<h2 id="cryptography">Cryptography</h2>
-<p>Cryptography is the branch of mathematics that lets us create <b>mathematical proofs that provide high levels of security</b>. Online commerce and banking already uses cryptography. In the case of Bitcoin, cryptography is used to make it impossible for anybody to spend funds from another user's wallet or to corrupt the <a href="#block-chain">block chain</a>. It can also be used to encrypt a wallet, so that it cannot be used without a password.</p>
-
-<h2 id="double-spend">Double Spend</h2>
-<p>If a malicious user tries to <b>spend their bitcoins to two different recipients at the same time</b>, this is double spending. Bitcoin <a href="#mining">mining</a> and the <a href="#block-chain">block chain</a> are there to create a consensus on the network about which of the two transactions will confirm and be considered valid.</p>
-
-<h2 id="hash-rate">Hash Rate</h2>
-<p>The hash rate is the <b>measuring unit of the processing power of the Bitcoin network</b>. The Bitcoin network must make intensive mathematical operations for security purposes. When the network reached a hash rate of 10 Th/s, it meant it could make 10 trillion calculations per second.</p>
-
-<h2 id="mining">Mining</h2>
-<p>Bitcoin mining is the process of <b>making computer hardware do mathematical calculations for the Bitcoin network to confirm transactions</b> and increase security. As a reward for their services, Bitcoin miners can collect transaction fees for the transactions they confirm, along with newly created bitcoins. Mining is a specialized and competitive market where the rewards are divided up according to how much calculation is done. Not all Bitcoin users do Bitcoin mining, and it is not an easy way to make money.</p>
+<p>Το BTC είναι μια συνηθισμένη μονάδα που χρησιμοποιείται για να προσδιορίσει ένα bitcoin (B⃦).</p>
 
 <h2 id="p2p">P2P</h2>
-<p>Peer-to-peer refers to <b>systems that work like an organized collective</b> by allowing each individual to interact directly with the others. In the case of Bitcoin, the network is built in such a way that each user is broadcasting the transactions of other users. And, crucially, no bank is required as a third party.</p>
-
-<h2 id="private-key">Private Key</h2>
-<p>A private key is a <b>secret piece of data that enables transaction outputs from a public key which has transaction inputs.</b> through a <a href="#signature">cryptographic signature</a>. Private key(s) are generally <i>generated</i> and <i>stored</i> using a computer using Bitcoin wallet software. There can be several different formats. Private keys must be kept secret and never be revealed because they enable bitcoins to be spent.
-<p>Many third-parties like to generate and store private keys. Almost all major Bitcoin thefts, which have amounted to hundreds of millions of dollars of value, have resulted because people trusted third parties to hold the private keys.
-<p>The safest and most secure way to generate and store Bitcoin private keys is with <a href="https://www.bitcoinarmory.com/">Armory</a> using an offline computer (<i>cold storage</i>).
-<b>Thus, whoever holds the private keys makes the rules.</b></p>
-<p>
-<img src="/images/private-key-example.png" alt="Bitcoin private key" align="center">
-<h2 id="public-key">Public Key</h2>
-<p>A public key can be mathematically derived from a private key and is used for the <a href="#address">Bitcoin address</a>. There can be several different formats.</p>
-<img src="/images/public-key-example.png" alt="Bitcoin public key" align="center">
-<h2 id="signature">Signature</h2>
-<p>A <a href="#cryptography">cryptographic signature</a> is <b>a mathematical mechanism that allows someone to prove ownership</b>. In the case of Bitcoin, a <a href="#wallet">Bitcoin wallet</a> and its <a href="#private-key">private key(s)</a> are linked by some mathematical magic. When your Bitcoin software signs a transaction with the appropriate private key, the whole network can see that the signature matches the bitcoins being spent. However, there is no way for the world to guess your private key to steal your hard-earned bitcoins.</p>
-
-<h2 id="wallet">Wallet</h2>
-<p>A Bitcoin wallet is loosely <b>the equivalent of a physical wallet on the Bitcoin network</b>. The wallet actually contains your <a href="#private-key">private key(s)</a> which allow you to spend the bitcoins allocated to it in the <a href="#block-chain">block chain</a>. Each Bitcoin wallet can show you the total balance of all bitcoins it controls and lets you pay a specific amount to a specific person, just like a real wallet. This is different to credit cards where you are charged by the merchant.</p>
+<p>Η ομότιμη σύνδεση (peer-to-peer) αναφέρεται σε <b>συστήματα που λειτουργούν όπως μια οργανωμένη συλλογική </b> επιτρέποντας στο κάθε άτομο να αλληλεπιδρά άμεσα με τους άλλους. Στην περίπτωση του Bitcoin, το δίκτυο είναι φτιαγμένο με τέτοιο τρόπο ώστε ο κάθε χρήστης να εκπέμπει τις συναλλαγές των άλλων χρηστών. Και κύριως δεν απαιτείται καμιά τράπεζα ως τρίτος.</p>
