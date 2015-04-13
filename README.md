@@ -55,7 +55,7 @@ Unfortunately, pages can easily get out of date if not maintained. That includes
 
 The materials directory is used as a shared directory to store files that take significant disk space like videos.
 
-Please help fix any broken links, bugs, typos, grammatical errors, etc.
+Please help fix any broken links, bugs, typos, grammatical errors and such.
 
 ### Keep the same HTML structure
 
