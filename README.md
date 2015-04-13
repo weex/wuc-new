@@ -36,7 +36,7 @@ For obvious reasons, when dealing with translations you should not change the me
 Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files.
 
 Folders are currently ready for the following languages and labled by <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639 language codes</a>:
-<ul><li>Chinese [zh]</li><li>Dutch [nl or nl1]</li></li><li><b>English [en] (This is the default source.)</b></li><li>German [de or de1]</li><li>Finnish [fi]</li><li>French [fr or fr1]</li><li>Greek [el]</li><li>Norwegian [no]</li><li>Polish [pl]</li><li>Japanese [ja or ja1]</li><li>Polish [pl]</li><li>Portugese [pt]</li><li>Russian [ru]</li><li>Spanish [es]</li><li>Swedish [sv]</li><li>Tagalog [tl]</li><li>Turkish [tr]</li></ul>
+<ul><li>Chinese [zh]</li><li>Dutch [nl or nl1]</li></li><li><b>English [en] (This is the default source.)</b></li><li>German [de or de1]</li><li>Finnish [fi]</li><li>French [fr or fr1]</li><li>Greek [el]</li><li>Norwegian [no]</li><li>Polish [pl]</li><li>Japanese [ja or ja1]</li><li>Polish [pl]</li><li>Portugese [pt]</li><li>Russian [ru]</li><li>Spanish [es]</li><li>Swedish [sv]</li><li>Tagalog/Filipino [tl]</li><li>Turkish [tr]</li></ul>
 
 There are legacy versions of German [de], Dutch [nl], French [fr] and Japanese [ja]. After a sufficient amount has been translated in the new folders [/de1/ /fr1/ /ja1/ and /nl1/] then we will migrate from the legacy versions.
 
@@ -65,22 +65,22 @@ Please keep HTML structure as symetric and perfectly identical as possible betwe
 
 Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voiceover then please submit a pull request with the mp3 and we can get the translated video made and uploaded to Youtube.
 
-<ul><li>de - German - </li>
-<li>el - Greek - </li>
-<li>es - <a href="https://www.youtube.com/watch?v=ceef71b0zSo">Spanish</a></li>
-<li>fi - Finnish - </li>
-<li>fr - <a href="https://www.youtube.com/watch?v=eN4SCHxhgag">French</a></li>
-<li>it - <a href="https://www.youtube.com/watch?v=QSUJqb33Sd8">Italian</a></li>
-<li>ja - <a href="https://www.youtube.com/watch?v=dlZFkTbCveY">Japanese</a> - </li>
-<li>nl - Dutch - </li>
-<li>no - Norwegian - </li>
-<li>pl - Polish - </li>
-<li>pt - Portugese - </li>
-<li>ru - <a href="https://www.youtube.com/watch?v=Ur8zXNGA_3A">Russian</a></li>
-<li>sv - Swedish - </li>
-<li>tl - Tagalog - </li>
-<li>tr - <a href="https://www.youtube.com/watch?v=tMnNC_l4tVM">Turkish</a></li>
-<li>zh - Chinese - </li>
+<ul><li>de - <a href="https://www.youtube.com/watch?v=2kPNz0tdlj0">German</a> - v1 full</li>
+<li>el - Greek - Could not find on Youtube</li>
+<li>es - <a href="https://www.youtube.com/watch?v=ceef71b0zSo">Spanish</a> - v1 full</li>
+<li>fi - Finnish - Could not find on Youtube</li>
+<li>fr - <a href="https://www.youtube.com/watch?v=eN4SCHxhgag">French</a> - v1 full</li>
+<li>it - <a href="https://www.youtube.com/watch?v=QSUJqb33Sd8">Italian</a> - v1 full</li>
+<li>ja - <a href="https://www.youtube.com/watch?v=dlZFkTbCveY">Japanese</a> - v2 subtitled</li>
+<li>nl - <a href="https://www.youtube.com/watch?v=9vLIt0YwDB0">Dutch</a> - v1 subtitled</li>
+<li>no - Norwegian - Could not find on Youtube</li>
+<li>pl - <a href="https://www.youtube.com/watch?v=gZRJihow1Qg">Polish</a> - v1 full</li>
+<li>pt - <a href="https://www.youtube.com/watch?v=1WQYLvbGFC0">Portugese</a> - v1 full</li>
+<li>ru - <a href="https://www.youtube.com/watch?v=Ur8zXNGA_3A">Russian</a> - v1 full</li>
+<li>sv - Swedish - Could not find on Youtube</li>
+<li>tl - Tagalog/Filipino - Could not find on Youtube</li>
+<li>tr - <a href="https://www.youtube.com/watch?v=tMnNC_l4tVM">Turkish</a> - v1 full</li>
+<li>zh - <a href="https://www.youtube.com/watch?v=BIyj4qe1wQM">Chinese</a> - v1 subtitled</li>
 </ul>
 
 ## Thanks!
