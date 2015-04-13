@@ -57,17 +57,13 @@ The materials directory is used as a shared directory to store files that take s
 
 Please help fix any broken links, bugs, typos, grammatical errors and such.
 
-### Keep the same HTML structure
-
-## Keep the same HTML structure
+### HTML structure
 
 Please keep HTML structure as symetric and perfectly identical as possible between each page and each localized version. This should not prevent adding unique things for some languages. But please keep the rest as close as possible. This helps keep consistency.
 
-### Video translations
-
 ## Video translations
 
-Subtitles for <em>What is Bitcoin?</em> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voiceover then please submit a pull request with the mp3 and we can get the translated video made and uploaded to Youtube.
+Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voiceover then please submit a pull request with the mp3 and we can get the translated video made and uploaded to Youtube.
 
 <ul><li>de - German - </li>
 <li>el - Greek - </li>
