@@ -2,7 +2,7 @@
 layout: default-nl1
 ---
 
-<title>What is Bitcoin Mining? - We Use Coins Bitcoin Experts Can Help</title>
+<title>Ontginnings Gids</title>
 <meta name="description" content="Bitcoin mining is how bitcoins are securely generated. Computer equipment, bitcoin miners, solve complex math problems to verify bitcoin transactions.">
 <meta name="keywords" content="bitcoin mining, bitcoin miner, bitcoin transaction">
 
@@ -10,46 +10,34 @@ layout: default-nl1
   <iframe width="700" height="394" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/GmOzih6I1zs"></iframe>
 <center><small>Video courtesy of: <em><a href="http://www.bitcoinmining.com">www.bitcoinmining.com</a></em></small></center></p>
 </p>
-<h2><em>Before we begin...</em></h2>
-<p>Before you read further, please understand that <strong>most bitcoin users don't mine!</strong> Bitcoin mining is a business and very competitive one and volatility in the <a href="/en/bitcoin-price/">Bitcoin price</a> makes it even more difficult. Mining only makes sense if you plan to do it for fun and thus don't care if you make a profit, or if you can do it very efficiently and for a profit.</p>
-<p>If you want to get Bitcoins based on a fixed amount of mining power, but you don't want to run the actual hardware yourself, you can purchase a mining contract.</p>
-<h2>Technical Background</h2>
-<p>During mining, your computer runs a <a href="https://en.bitcoin.it/wiki/Proof_of_work">cryptographic hashing function</a> (two rounds of SHA256) on what is called a <em><a href="https://en.bitcoin.it/wiki/Block_hashing_algorithm">block header</a></em>. For each new hash, the mining software will use a different number as the random element of the block header, this number is called the <em>nonce</em>. Depending on the nonce and what else is in the block the hashing function will yield a hash which looks like this:</p>
-<p>
-<center>93ef6f358fbb998c60802496863052290d4c63735b7fe5bdaac821de96a53a9a</center>
-<p>You can look at this hash as a really long number. (It's a hexadecimal number, meaning the letters A-F are the digits 10-15.) Now to make mining difficult, there is what's called a <em>difficulty target</em>. To create a valid block your miner has to find a hash that is below the difficulty target. So if for example the difficulty target is
-<p>
-<center>1000000000000000000000000000000000000000000000000000000000000000</center>
-<p>any number that starts with a zero would be below the target, e.g.:</p>
-<p><center>0787a6fd6e0782f7f8058fbef45f5c17fe89086ad4e78a1520d06505acb4522f</center>
-<p>If we lower the target to
-<p><center>0100000000000000000000000000000000000000000000000000000000000000</center>
-<p>
-we now need two zeros in the beginning to be under it:</p>
-<p><center>00db27957bd0ba06a5af9e6c81226d74312a7028cf9a08fa125e49f15cae4979</center>
-<p>Because the target is such an unwieldy number with tons of digits, people generally use a simpler number to express the current target. This number is called the <em>mining difficulty</em>. The mining difficulty expresses how much harder the current block is to generate compared to the first block. So a difficulty of 70000 means to generate the current block you have to do 70000 times more work than <a href="https://en.bitcoin.it/wiki/Satoshi_Nakamoto">Satoshi Nakamoto</a> had to do generating the first block. Though be fair though, back then mining was a lot slower and less optimized.</p>
-The difficulty changes every 2016 blocks. The network tries to change it such that 2016 blocks at the current global network processing power take about 14 days. That's why, when the network power rises, the difficulty rises as well.
-<h2>Bitcoin Mining Hardware</h2>
-<h3>CPU</h3>
-In the beginning, mining with a CPU was the only way to mine bitcoins. Mining this way via the original Satoshi client is how the bitcoin network started. This method is no longer viable now that the network difficulty level is so high. You might mine for years and years without earning a single coin.</p> 
-<h3>GPU</h3>
-Soon it was discovered that high end graphics cards were much more efficient at bitcoin mining and the landscape changed. CPU bitcoin mining gave way to the GPU (Graphical Processing Unit). The massively parallel nature of some GPUs allowed for a 50x to 100x increase in bitcoin mining power while using far less power per unit of work.
-<p>While any modern GPU can be used to mine, the AMD line of GPU architecture turned out to be far superior to the nVidia architecture for mining bitcoins and the ATI Radeon HD 5870 turned out to be the most cost effective choice at the time.</p>
-<h3>FPGA</h3>
-As with the CPU to GPU transition, the bitcoin mining world progressed up the technology food chain to the Field Programmable Gate Array. With the successful launch of the Butterfly Labs FPGA 'Single', the bitcoin mining hardware landscape gave way to specially manufactured hardware dedicated to mining bitcoins.
-<p>While the FPGAs didn't enjoy a 50x - 100x increase in mining speed as was seen with the transition from CPUs to GPUs, they provided a benefit through power efficiency and ease of use. A typical 600 MH/s graphics card consumed upwards of 400w of power, whereas a typical FPGA mining device would provide a hashrate of 826 MH/s at 80w of power.
-<p>That 5x improvement allowed the first large bitcoin mining farms to be constructed at an operational profit. The bitcoin mining industry was born.</p>
-<h3>ASIC</h3>
-The bitcoin mining world is now solidly in the Application Specific Integrated Circuit (ASIC) era. An ASIC is a chip designed specifically to do one thing and one thing only. Unlike FPGA's, an ASIC cannot be repurposed to perform other tasks.
-<p>An ASIC designed to mine bitcoins can only mine bitcoins and will only ever mine bitcoins. The inflexibility of an ASIC is offset by the fact that it offers a 100x increase in hashing power while reducing power consumption compared to all the previous technologies.</p>
-<p>Unlike all the previous generations of hardware preceding ASIC, ASIC is the "end of the line" when it comes to disruptive technology. CPUs were replaced by GPUs which were in turn replaced by FPGAs which were replaced by ASICs. There is nothing to replace ASICs now or even in the immediate future.
-<p>There will be stepwise refinement of the ASIC products and increases in efficiency, but nothing will offer the 50x to 100x increase in hashing power or 7x reduction in power usage that moves from previous technologies offered. This makes power consumption on an ASIC device the single most important factor of any ASIC product, as the expected useful lifetime of an ASIC mining device is longer than the entire history of bitcoin mining.
-<p>It is conceivable that an ASIC device purchased today would still be mining in two years if the device is power efficient enough and the cost of electricity does not exceed it's output. Mining profitability is also dictated by the exchange rate, but under all circumstances the more power efficient the mining device, the more profitable it is.</p>
 
-<h2>Software</h2>
-<p>There are two basic ways to mine: On your own or as part of a pool. Almost all miners choose to mine on a pool because it takes the luck out of the process. Before you join a pool, make sure you have a <a href="https://www.weusecoins.com/en/getting-started">bitcoin wallet</a> so you have a place to store your bitcoins. Next you need to join a mining pool like Eclipse, Eligius or BTC Guild. With pool mining, the profit from any block a member generates is divided up among the members of the pool.
-<p>This gives the pool members a more frequent, steady payout (this is called reducing your variance), but your payout(s) will be less unless you use a zero fee pool like Eclipse. Solo mining will give you large, infrequent payouts and pooled mining will give you small, frequent payouts, but both add up to the same amount if you're using a zero fee pool.</p>
-<p>Once you have your client set up or you have registered with a pool, the next step is to set up the actual mining software.
- 
-<h2>Thanks</h2>
-Blitzboom and the guys from #bitcoin-dev for their help with writing the guide!
+<h1 id="intro">Voor we starten...</h1>
+<p>Voor je verder leest moet je verstaan dat <strong>de meeste bitcoin gebruikers niet ontginnen!</strong> Bitcoin ontginning is een vorm van zaken doen en wel een heel competitieve. Ontginnen heeft alleen zin als je het doet voor je plezier en het niet uit maakt of je winst maakt, of als je het heel efficiënt kan maken en winst maakt.</p>
+<p>Als je liever Bitcoins wil gebaseerd op een vaste hoeveelheid ontginnings kracht, maar je de hardware zelf niet wil draaien, kan je een ontginnings contract kopen.</p>
+<h1 id="technical">Technische Achtergrond</h1>
+<p>Tijdens de ontginning draait je computer een <a href="https://en.bitcoin.it/wiki/Proof_of_work">cryptografische hashing functie</a> (twee opeenvolgende SHA256 hashes) op wat een <em><a href="https://en.bitcoin.it/wiki/Block_hashing_algorithm">blok hoofd</a></em> genoemd wordt. Voor elke nieuwe hash zal de ontginnings software een verschillend nummer gebruiken as het willekeurige element van het blok hoofd, dit nummer wordt de <em>nonce</em> genoemd. Afhankelijk van de nonce en wat er nog in het blok zit zal de hashing functie een nieuwe hash creëren zoals deze:</p>
+<center>93ef6f358fbb998c60802496863052290d4c63735b7fe5bdaac821de96a53a9a</center>
+<p>Bekijk dit als een heel lang nummer. (Dit is een hexadecimaal nummer, wat wil zeggen dat de letters A-F de cijfers 10-15 voorstellen.) Om de ontginning moeilijker te maken is er een <em>moeilijkheids niveau</em>. Om een geldig blok te creëren moet je ontginner een hash vinden dat onder het moeilijkeids niveau zit. Dus, als het moeilijkheids niveau bijvoorbeeld<p><center>1000000000000000000000000000000000000000000000000000000000000000</center><p>
+is, is elk nummer startend met een nul geldig. Bijvoorbeeld:</p>
+<center>0787a6fd6e0782f7f8058fbef45f5c17fe89086ad4e78a1520d06505acb4522f</center>
+<p>Als we het niveau verlagen naar<p><center>0100000000000000000000000000000000000000000000000000000000000000</center>
+<p>hebben we twee nullen nodig in het begin om onder het niveau te komen:</p>
+<center>00db27957bd0ba06a5af9e6c81226d74312a7028cf9a08fa125e49f15cae4979</center>
+<p>Omdat het niveau zo een omslachtig nummer is met een hoop cijfers gebruikt men meestal een eenvoudiger nummer om het huidige niveau aan te duiden. Dit nummer wordt de <em>ontginnings moeilijkheid</em> genoemd. De ontginnings moeilijkheid duidt aan hoeveel moeilijker het is het huidge blok te genereren in vergelijking met het eerste blok. Een moeilijkheid van 70000 betekent dat je 70000 keer meer werk moet verrichten dan <a href="https://en.bitcoin.it/wiki/Satoshi_Nakamoto">Satoshi Nakamoto</a> nodig had om het eerste blok te genereren. Het moet echter gezegd dat ontginnen toen wel een stuk trager en minder geoptimaliseerd verliep.</p>
+<p>Het moeilijkheids niveau verandert elke 2016 blokken. Het netwerk probeert dit te veranderen zodat de ontginning van 2016 blokken, aan de huidige globale netwerk verwerkings kracht, 14 dagen in beslag neemt. Dit is waarom, wanneer de kracht van het netwerk stijgt, ook de moeilijkheid stijgt.</p>
+<h1 id="hardware">Hardware</h1>
+<p>In het begin was het alleen mogelijk te ontginnen met een CPU. Later werden dit grafische kaarten (GPUs) omdat sommige GPUs, door hun enorme parallele eigenschappen, een <a href="https://en.bitcoin.it/wiki/Why_a_GPU_mines_faster_than_a_CPU">verhoging van 50x tot 100x</a> in ontginnings kracht realiseerden met minder stroomverbruik per megahash in vergelijking met een CPU.</p>
+<p>Terwijl elke moderne GPU gebruikt kan worden om te ontginnen bleek de architectuur van de AMD GPU serie superieur aan de NVIDIA architectuur voor de ontginning van bitcoins en de ATI Radeon HD 5870 bleek indertijd het meest kost-effectief.</p>
+<p>Voor een uitgebreide lijst van grafische kaarten en hun performantie voor het ontginnen van Bitcoin verwijzen we naar de Bitcoin Wiki: Vergelijking van ontginnings hardware</p>
+<p>Net zoals met de overgang van CPU naar GPU is de bitcoin ontginnings wereld geëvolueerd naar het gebruik van Field Programmable Gate Arrays (FPGA) als belangrijkste ontginnings platform. Ondanks het feit dat FPGAs geen winsten van 50x tot 100x leveren zoals bij de overgang van CPUs naar GPUs bieden ze voordelen door hun stroom efficiëntie.
+<p>Een typische 600 MH/s grafische kaart gebruikt meer dan 400w stroom, waar een typisch FPGA ontginnings toestel een hashrate van 826 MH/s aan 80w stroom levert, een verbetering met een factor 5. Stroom efficiëntie kan het rendement maken of kraken dus de stap van GPUs naar FPGAs was voor veel mensen een belangrijke stap.</p>
+<p>De bitcoin ontginnings wereld is momenteel aan het overstappen naar het Application Specific Integrated Circuit (ASIC) tijdperk. Een ASIC chip is ontworpen voor één en slechts één taak. In tegenstelling to FPGAs kan een ASIC niet herbruikt worden voor een andere toepassing.
+<p>Een ASIC ontworpen voor het ontginnen van bitcoins kan en zal enkel en voor altijd bitcoins ontginnen. De stroefheid van de ASIC wordt goed gemaakt door een verhoging van 100x de hashing snelheid met een beperkter stroomverbruik in vergelijking met eerdere technologieën. Het instapmodel van bijvoorbeeld, levert 60 GH/s (1 Gigahash is 1000 Megahash. 1 GH/s = 1000 MH/s) met een stroomverbruik van 60w. Vergeleken met het GPU tijdperk is dit een verhoging van 100x de hash snelheid met een vermindering van het stroomverbruik met een factor 7.</p>
+<p>In tegenstelling tot alle generaties hardware voorfgaand aan de ASIC, is de ASIC de laatste ontwrichtende vernieuwing. CPUs werden vervangen door GPUs die op hun beurt werden vervangen door FPGAs die werden vervangen door ASICs. Er is niets om de ASICs mee te vervangen, ook niet in de nabije toekomst. Er komt een stapsgewijze verbetering van ASIC producten met een verhogingen van de efficiëntie, maar niets zal een verhoging van 50x tot 100x van de hash snelheid of een verlaging van 7x het stroomverbruik kunnen bieden die de eerdere technologieën mogelijk maakten.
+<p>Vermits de bruikbare levensduur van een ASIC ontginnings toestel niet langer is dan de hele geschiedenis van bitcoin ontginning, is het verminderen van het stroomverbruik van een ASIC toestel de belangrijkste doelstelling voor elk ASIC product. Het is denkbaar dat een ASIC toestel dat vandaag gekocht wordt nog steeds aan het ontginnen is binnen twee jaar als het stroomverbruik van het toestel efficiënt genoeg is en de kost van de electriciteit de opbrengst niet overschrijdt. Het rendement van de ontginning wordt ook beïnvloed door de wisselkoers, maar in elk geval geldt dat: hoe efficiënter het stroomverbruik van het toestel, hoe hoger de opbrengst.</p>
+<h1 id="software">Software</h1>
+<p>Er zijn twee manieren om te ontginnen: alleen of in groep. Als je alleen ontgint start je met de installatie van de Bitcoin client en dien je die in te stellen voor JSON-RPC (zie: <a href="https://en.bitcoin.it/wiki/Running_Bitcoin">Bitcoin Starten</a>). De andere optie is je aan te sluiten bij een <a href="https://en.bitcoin.it/wiki/Pooled_mining">ontginnings groep</a>. Je kan kiezen uit <a href="https://en.bitcoin.it/wiki/Category:Pool_Operators">verschillende groepen</a>. De winst van elk, door een groepslid gevonden blok, wordt verdeelt tussen alle leden van de groep. Door je aan te sluiten bij een groep ontvang je frequente en constante uitbetalingen (beperken van de variantie genoemd) maar liggen deze ook lager. Uiteindelijk verdien je evenveel, onafhankelijk de gekozen optie. Solo ontginning geeft je grote, onregelmatige uitbetalingen en groeps ontginning geeft je kleine, regelmatige uitbetalingen maar beiden komen uit op hetzelfde bedrag.</p>
+<p>Zodra je je client hebt geïnstalleerd of je bent aangesloten bij een groep is het opzetten van een ontginner de volgende stap. De populairste GPU/FPGA/ASIC ontginner op dit moment is CGminer of een afeleide, spciaal ontworpen voor FPGA en ASIC: BFMiner.</p>
+<p>Je kan Bitcoin Plus, een browser gebaseerde CPU Bitcoin ontginner, proberen om kennis te maken met bitcoin ontginning zonder software te moeten installeren. Als CPU ontginner is het niet kost-efficiënt voor het echte werk, maar het toont het principe van groeps ontginning.</p>
+<h2 id="credit">Met dank aan</h2>
+<p>Blitzboom en de mensen van #bitcoin-dev voor hun hulp bij het schrijven van de gids!</p>
