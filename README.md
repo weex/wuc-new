@@ -83,12 +83,12 @@ Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v
 <li>sv - Swedish - Could not find on Youtube</li>
 <li>tl - Tagalog/Filipino - Could not find on Youtube</li>
 <li>tr - <a href="https://www.youtube.com/watch?v=tMnNC_l4tVM">Turkish</a> - v1 full</li>
-<li>zh - [Chinese](https://www.youtube.com/watch?v=BIyj4qe1wQM) - v1 subtitled</li>
+<li>zh - <a href="https://www.youtube.com/watch?v=BIyj4qe1wQM">Chinese</a> - v1 subtitled</li>
 </ul>
 
 <h2>Alt-Coin Articles</h2>
 
-WUC is about providing a useful resource for the entire cryptocurrency community. Consequently, there is an entire section devoted to <a href="https://www.weusecoins.org/en/alt-coins/">Alt-Coins</a>. Want to see your favorite alt-coin included? Then please talk to the developers or submit the pull requests yourself. Some article ideas would be:
+WUC is about providing a useful resource for the entire cryptocurrency community. Consequently, there is an entire section devoted to [Alt-Coins](https://www.weusecoins.org/en/alt-coins/) <a href="https://www.weusecoins.org/en/alt-coins/">Alt-Coins</a>. Want to see your favorite alt-coin included? Then please talk to the developers or submit the pull requests yourself. Some article ideas would be:
 
 <ul><li>What is [alt-coin]?</li>
 <li>How to mine [alt-coin]?</li>
