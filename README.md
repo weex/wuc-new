@@ -11,7 +11,7 @@ To increase the probability of success please follow these guidelines:
 
 ### Author Biography Article<p>
 1. Create an author biography article.<p>
-2. Appropriate examples: <b>Individual</b>: <a href="http://www.weusecoins.com/trace-mayer-bitcoin-expert/">Live</a>; <a href="https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2015-4-5-trace-mayer-bitcoin-expert.md">Github</a>; <b>Corporate</b>: <a href="">Live</a>; <a href="">Github</a> <p>
+2. Appropriate examples: <b>Individual</b>: [Live](http://www.weusecoins.com/trace-mayer-bitcoin-expert); [Github](https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2015-4-5-trace-mayer-bitcoin-expert.md); <b>Corporate</b>: [Live](); [Github]()<p>
 3. For the Author URL in the layout use a website of your choice<p>
 
 ### Writing Articles For WUC<p>
@@ -88,7 +88,7 @@ Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v
 
 <h2>Alt-Coin Articles</h2>
 
-WUC is about providing a useful resource for the entire cryptocurrency community. Consequently, there is an entire section devoted to [Alt-Coins](https://www.weusecoins.org/en/alt-coins/) <a href="https://www.weusecoins.org/en/alt-coins/">Alt-Coins</a>. Want to see your favorite alt-coin included? Then please talk to the developers or submit the pull requests yourself. Some article ideas would be:
+WUC is about providing a useful resource for the entire cryptocurrency community. Consequently, there is an entire section devoted to [Alt-Coins](https://www.weusecoins.org/en/alt-coins/). Want to see your favorite alt-coin included? Then please talk to the developers or submit the pull requests yourself. Some article ideas would be:
 
 <ul><li>What is [alt-coin]?</li>
 <li>How to mine [alt-coin]?</li>
