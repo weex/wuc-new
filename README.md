@@ -93,7 +93,8 @@ WUC is about providing a useful resource for the entire cryptocurrency community
 <ul><li>What is [alt-coin]?</li>
 <li>How to mine [alt-coin]?</li>
 <li>Best [alt-coin] Exchanges</li>
-<li>Any videos about the particular alt-coin</li></ul>
+<li>Any videos about the particular alt-coin</li>
+<li>Alt-coin price ticker widgets</li></ul>
 
 Articles for these particular alt-coins are needed because they seem to have a significant amount of trading volume:
 <ul><li>BitcoinDark</li>
