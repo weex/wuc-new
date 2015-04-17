@@ -3,8 +3,7 @@
 WUC is one of the highest profile websites in Bitcoin and is to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage WUC to build your Bitcoin business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
 <img src="/images/optimized.png" align="center" alt="optimized"/>
 <p>
-WUC uses Github to manage version control with a fork and pull method. Watch this [video by Clay Shirky](https://www.youtube.com/watch?v=CEN4XNth61o) to understand why. <b>This means your articles and contributions should be submitted as a pull request.</b> Consequently,  If you are unfamiliar then you may need to learn how to [create a pull request](https://help.github.com/articles/creating-a-pull-request/) and how to [use pull requests](https://help.github.com/articles/using-pull-requests/).<p>
-<iframe width="640" height="480" src="https://www.youtube.com/embed/YTbRzhQju4c" frameborder="0" allowfullscreen></iframe>
+WUC uses Github to manage version control with a fork and pull method. Watch this [video by Clay Shirky](https://www.youtube.com/watch?v=CEN4XNth61o) to understand why. <b>This means your articles and contributions should be submitted as a pull request.</b> Consequently,  If you are unfamiliar then you may need to learn how to [create a pull request](https://help.github.com/articles/creating-a-pull-request/) and how to [use pull requests](https://help.github.com/articles/using-pull-requests/) plus this [short video may be helpful](https://www.youtube.com/watch?v=YTbRzhQju4c).<p>
 <p>
 Articles <b>should</b> be <b>(1)</b> well written, <b>(2)</b> accurate, <b>(3)</b> grammatically correct and <b>(4)</b> objective. Get audience exposure and build your reputation by receiving credit and a link in the byline for the article. Developing a good reputation will help your articles get merged in a more timely manner.
 
@@ -84,7 +83,7 @@ Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v
 <li>sv - Swedish - Could not find on Youtube</li>
 <li>tl - Tagalog/Filipino - Could not find on Youtube</li>
 <li>tr - <a href="https://www.youtube.com/watch?v=tMnNC_l4tVM">Turkish</a> - v1 full</li>
-<li>zh - <a href="https://www.youtube.com/watch?v=BIyj4qe1wQM">Chinese</a> - v1 subtitled</li>
+<li>zh - [Chinese](https://www.youtube.com/watch?v=BIyj4qe1wQM) - v1 subtitled</li>
 </ul>
 
 <h2>Alt-Coin Articles</h2>
