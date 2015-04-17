@@ -19,10 +19,10 @@ To increase the probability of success please follow these guidelines:
 2. Use the Year-Month-Date in the file name. Ex. 2015-1-23-bitcoin.md<p>
 3. Fill out the Author and Author URL (use your WUC Author Biography article.<p>
 4. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word guide if it is awesome.
-5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a <a href="http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/">hub and spoke model</a>.
-6. Perform at least basic Search Engine Optimization (Ex. <a href="http://www.weusecoins.com/en/questions/">Free Tool</a>).<p>
+5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a [hub and spoke model](http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/).
+6. Perform at least basic Search Engine Optimization (Ex. [Free Tool](http://www.weusecoins.com/en/questions/).<p>
 7. Link to and from other relevant pages on weusecoins.com like the extensive <a href="http://www.kraken.io">FAQ</a><p>
-8. Optimize images (Ex. <a href="http://www.kraken.io">Kraken.io</a>)<p>
+8. Optimize images (Ex. [Kraken.io](http://www.kraken.io)<p>
 9. Find websites that will link to the article<p>
 10. Mention the article on social media like Twitter, Facebook, Reddit, etc.<p>
 11. Thanks for your help!<p>
@@ -38,7 +38,7 @@ For obvious reasons, when dealing with translations you should not change the me
 
 Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files.
 
-Folders are currently ready for the following languages and labled by <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">ISO 639 language codes</a>:
+Folders are currently ready for the following languages and labled by [ISO 639 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes):
 <ul><li>Chinese [zh]</li><li>Dutch [nl or nl1]</li></li><li><b>English [en] (This is the default source.)</b></li><li>German [de or de1]</li><li>Finnish [fi]</li><li>French [fr or fr1]</li><li>Greek [el]</li><li>Norwegian [no]</li><li>Polish [pl]</li><li>Japanese [ja or ja1]</li><li>Polish [pl]</li><li>Portugese [pt]</li><li>Russian [ru]</li><li>Spanish [es]</li><li>Swedish [sv]</li><li>Tagalog/Filipino [tl]</li><li>Turkish [tr]</li></ul>
 
 There are legacy versions of German [de], Dutch [nl], French [fr] and Japanese [ja]. After a sufficient amount has been translated in the new folders [/de1/ /fr1/ /ja1/ and /nl1/] then we will migrate from the legacy versions.
