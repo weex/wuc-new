@@ -20,9 +20,9 @@ To increase the probability of success please follow these guidelines:
 3. Fill out the Author and Author URL (use your WUC Author Biography article.<p>
 4. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word guide if it is awesome.
 5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a [hub and spoke model](http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/).
-6. Perform at least basic Search Engine Optimization (Ex. [Free Tool](http://www.weusecoins.com/en/questions/).<p>
-7. Link to and from other relevant pages on weusecoins.com like the extensive <a href="http://www.kraken.io">FAQ</a><p>
-8. Optimize images (Ex. [Kraken.io](http://www.kraken.io)<p>
+6. Perform at least basic Search Engine Optimization (Ex. [Free Tool](http://www.weusecoins.com/en/questions/)).<p>
+7. Link to and from other relevant pages on weusecoins.com like the extensive [FAQ](https://www.weusecoins.org/en/questions/)<p>
+8. Optimize images (Ex. [Kraken.io](http://www.kraken.io))<p>
 9. Find websites that will link to the article<p>
 10. Mention the article on social media like Twitter, Facebook, Reddit, etc.<p>
 11. Thanks for your help!<p>
