@@ -90,11 +90,20 @@ Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v
 
 WUC is about providing a useful resource for the entire cryptocurrency community. Consequently, there is an entire section devoted to [Alt-Coins](https://www.weusecoins.org/en/alt-coins/). Want to see your favorite alt-coin included? Then please talk to the developers or submit the pull requests yourself. Some article ideas would be:
 
-<ul><li>What is [alt-coin]?</li>
-<li>How to mine [alt-coin]?</li>
-<li>Best [alt-coin] Exchanges</li>
-<li>Any videos about the particular alt-coin</li>
-<li>Alt-coin price ticker widgets</li></ul>
+<ul><li>[alt-coin] guide</li>
+     <li>Alt-coin price ticker widgets</li>
+     <li>[alt-coin] price/value ticker widgets</li>
+     <li>how to get started with [alt-coin]</li>
+     <li>best [alt-coin] wallet</li>
+     <li>best [alt-coin] exchange</li>
+          <li>how to get [alt-coin]</li>
+          <li>how to use [alt-coin]</li>
+     <li>[how to pay with [alt-coin]</li>
+          <li>[alt-coin] shopping cart</li>
+     <li>what is [alt-coin] mining</li>
+          <li>[alt-coin] miner</li>
+          <li>how to mine [alt-coin]</li>
+          <li>[alt-coin] mining hardware</li></ul>
 
 Articles for these particular alt-coins are needed because they seem to have a significant amount of trading volume:
 <ul><li>BitcoinDark</li>
