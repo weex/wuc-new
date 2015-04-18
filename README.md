@@ -17,7 +17,7 @@ To increase the probability of success please follow these guidelines:
 ### Writing Articles For WUC<p>
 1. Create an objective article in the _posts folder<p>
 2. Use the Year-Month-Date in the file name. Ex. 2015-1-23-bitcoin.md<p>
-3. Fill out the Author and Author URL (use your WUC Author Biography article.<p>
+3. Fill out the Author and Author URL (use your WUC Author Biography article).<p>
 4. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word guide if it is awesome.
 5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a [hub and spoke model](http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/).
 6. Perform at least basic Search Engine Optimization (Ex. [Free Tool](http://www.weusecoins.com/en/questions/)).<p>
