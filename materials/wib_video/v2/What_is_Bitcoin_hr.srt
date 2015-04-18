@@ -19,13 +19,13 @@ Bitcoin ima niz prednosti.
 
 5
 00:00:11,700 --> 00:00:15,000
-Bitcoin se putem mreže izravno
-prenosi od osobe do osobe
+Bitcoin se prenosi s
+osobe na osobu 
 
 6
 00:00:15,050 --> 00:00:17,160
-bez da prolazi kroz
-banku ili klirinški zavod.
+bez posredstva banke ili
+klirinške/obračunske kuće.
 
 7
 00:00:17,200 --> 00:00:19,520
