@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Marcus of Augustus | Bitcoin Core Developer | About Page
+title: Marcus of Augustus | Bitcoin Core Developer
 author: Marcus of Augustus
-authorurl: http://www.weusecoins.com
+authorurl: https://www.weusecoins.com/marcus-of-augustus/
 published: true
 ---
 
